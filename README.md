@@ -4,7 +4,7 @@ GitHub User Search is a React component designed to help users explore GitHub pr
 
 ## Features
 
-- **User Profile Card:** Display user information such as name, bio, followers, following, and public repositories.
+- **User Profile Card:** Display user information such as name, bio, followers, following, and public repositories..
 
 - **Repository Information:** List repositories owned by the user.
 
